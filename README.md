@@ -49,7 +49,7 @@ Supports pre-planned deployments, gradual exposure and rollback safety mechanism
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?datt-patel2909=datt-patel2909\&show_icons=true\&theme=github_dark)
+![stats](https://github-readme-stats.vercel.app/api?username=datt-patel2909\&show_icons=true\&theme=github_dark)
 
 ---
 
