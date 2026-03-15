@@ -30,20 +30,72 @@ Node.js • Express • Postman
 
 ## 📌 Featured Work
 
-🎥 In-App Recording SDK Platform
+**⚙️ Backend API Development**
 
-Backend services that capture user interactions and transform them into structured automation test flows.
-Includes event ingestion APIs, action normalization and replay-ready data modeling.
+Designed and developed scalable backend systems using modern REST architecture and database integration.
 
-🤖 Mobile Automation Execution Platform
+Tech Stack: Node.js • Express.js • MongoDB • REST APIs
 
-Designed a custom automation infrastructure with server orchestration and device-agent communication.
-Handles session management, command scheduling and parallel execution pipelines.
+**Highlights**
 
-🚀 Stability-First Release System
+Designed modular backend architecture
 
-Feature activation architecture enabling controlled rollouts and time-based releases.
-Supports pre-planned deployments, gradual exposure and rollback safety mechanisms.
+Implemented authentication & authorization
+
+Built secure REST APIs
+
+Structured database schemas
+
+Handled API validation & error handling
+
+**🛒 E-Commerce Backend System**
+
+Backend services powering an online store including product management, order handling, and admin controls.
+
+Tech Stack: Node.js • Express • MongoDB
+
+**Key Features**
+
+Product catalog APIs
+
+Order management system
+
+Admin APIs
+
+Secure authentication
+
+
+**🔐 Authentication & User Management**
+
+Secure authentication system implementing modern backend security practices.
+
+Tech Stack: Node.js • JWT • bcrypt
+
+**Features**
+
+User registration & login
+
+Password encryption
+
+JWT authentication
+
+Protected API routes
+
+**📡 REST API Architecture Practice**
+
+Collection of backend APIs demonstrating scalable service design and API best practices.
+
+Tech Stack: Express.js • MongoDB
+
+**Concepts Implemented**
+
+CRUD operations
+
+API routing structure
+
+Middleware architecture
+
+Error handling
 
 ---
 
